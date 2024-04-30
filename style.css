@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: #3f70b1;
+    background-color: #2b5996;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -19,4 +19,24 @@ header{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.eu-imagem{
+    width: 20%;
+}
+
+.eu{
+    background: linear-gradient(#2b5996, #002978);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+}
+
+.eu-div-conteudo{
+    width: 35%;
+}
+.eu-tiulo{
+    padding: 24px 0;
 }

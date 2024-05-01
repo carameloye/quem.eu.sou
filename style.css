@@ -40,3 +40,13 @@ header{
 .eu-tiulo{
     padding: 24px 0;
 }
+
+.rodape{
+    background-color: rgb(155, 169, 207);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 12px 0;
+}
